@@ -1,12 +1,15 @@
 # ipeds_cn_data
-Gathering data in a formidable fashon 
+Gathering data in a formidable fashon. The process is to do the following:
+1. Download tables based on the type of information and years (i.e. admission only has admission info and student_financial_aid only has 
+financial info) 
+2. Change tables names and Keep session id ( this information is given to you for every inquiry)
+3. Run R code 1 Clean_Data to get clean data based on specified calculations
+4. Run R code 2 Organize_Data to get relevant info 
+5. Run R code 3 _____________ to gather information from NCES (manually calculation)
 
 
+## Information and columns need to be calculated Gathered from IPEDS
 
-Information and columns need to be calculated Gathered from IPEDS
-##-----------------------------------------------------
-## 3.) Organization of Tables
-##-----------------------------------------------------
 
 Years since 2010
 Tables:
