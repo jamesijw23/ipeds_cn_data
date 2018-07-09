@@ -1,0 +1,67 @@
+UnitID,Institution Name, Name Abv ,State, PEER , ASP , IN-STATE , SEC , PublicPrivate,City
+100751,University of Alabama,Alabama,Alabama,Peer,,,SEC,Public,Tuscaloosa
+100858,Auburn University,Auburn,Alabama,Peer,,,SEC,Public,Auburn
+104151,Arizona State University-Tempe,,Arizona,,,,,Public,Tempe
+104179,University of Arizona,,Arizona,,,,,Public,Tucson
+106397,University of Arkansas,Arkansas,Arkansas,,,,SEC,Public,Fayetteville
+110635,University of California-Berkeley,,California,,,,,Public,Berkeley
+110644,University of California-Davis,,California,,,,,Public,Davis
+110653,University of California-Irvine,,California,,,,,Public,Irvine
+110662,University of California-Los Angeles,,California,,,,,Public,Los Angles
+110671,University of California-Riverside,,California,,,,,Public,Riverside
+110680,University of California-San Diego,,California,,,,,Public,La Jolla
+110705,University of California-Santa Barbara,,California,,,,,Public,Santa Barbara
+126614,University of Colorado Boulder,,Colorado,,,,,Public,Boulder
+126818,Colorado State University-Fort Collins,,Colorado,,,,,Public,Fort Collins
+129020,University of Connecticut,,Connecticut,,,,,Public,Storrs
+130943,University of Delaware,,Delaware,,,,,Public,Newark
+134097,Florida State University,,Florida,,,,,Public,Tallahassee
+134130,University of Florida,Florida,Florida,,ASP,,SEC,Public,Gainesville
+139755,Georgia Institute of Technology-Main Campus,,Georgia,,,,,Public,Atlanta
+139959,University of Georgia,Georgia,Georgia,,ASP,,SEC,Public,Athens
+145637,University of Illinois at Urbana-Champaign,,Illinois,,,,,Public,Champaign
+151351,Indiana University-Bloomington,,Indiana,,,,,Public,Bloomington
+153603,Iowa State University,Iowa St,Iowa,Peer,,,,Public,Ames
+153658,University of Iowa,,Iowa,,,,,Public,Iowa City
+155317,University of Kansas,,Kansas,,,,,Public,Lawrence
+157085,University of Kentucky,Kentucky,Kentucky,Peer,,,SEC,Public,Lexington
+159391,Louisiana State University and Agricultural & Mechanical College,LSU,Louisiana,Peer,,,SEC,Public,Baton Rouge
+163286,University of Maryland-College Park,,Maryland,,,,,Public,College Park
+166629,University of Massachusetts-Amherst,,Massachusetts,,,,,Public,Amherst
+170976,University of Michigan-Ann Arbor,,Michigan,,,,,Public,Ann Arbor
+171100,Michigan State University,Michigan State,Michigan,,ASP,,,Public,East Lansing
+174066,University of Minnesota-Twin Cities,UMinn,Minnesota,,ASP,,,Public,Minneapolis
+176017,University of Mississippi,Ole Miss,Mississippi,,,,SEC,Public,University
+176080,Mississippi State University,Miss State,Mississippi,,,,SEC,Public,Mississippi
+178396,University of Missouri-Columbia,Missouri,Missouri,Peer,,,SEC,Public,Columbia
+181464,University of Nebraska-Lincoln,Neb-Lincoln,Nebraska,Peer,,,,Public,Lincoln
+186380,Rutgers University-New Brunswick,,New Jersey,,,,,Public,Piscataway
+196088,University at Buffalo,,New York,,,,,Public,Buffalo
+196097,Stony Brook University,,New York,,,,,Public,Stony Brook
+199120,University of North Carolina at Chapel Hill,UNC,North Carolina,,,,,Public,Chapel Hill
+199193,North Carolina State University at Raleigh,NC State,North Carolina,Peer,,,,Public,Raleigh
+204796,Ohio State University-Main Campus,,Ohio,,,,,Public,Columbus
+207500,University of Oklahoma-Norman Campus,,Oklahoma,,,,,Public,Norman
+209551,University of Oregon,,Oregon,,,,,Public,Eugene
+214777,Pennsylvania State University-Main Campus,,Pennsylvania,,,,,Public,University Park
+215293,University of Pittsburgh-Pittsburgh Campus,Upitt,Pennsylvania,,,,,Public,Pittsburgh
+217882,Clemson University,Clemson ,South Carolina,Peer,,,,Public,Clemson
+218663,University of South Carolina-Columbia,South Carolina,South Carolina,Peer,,,SEC,Public,Columbia
+219602,Austin Peay State University,Austin Peay St,Tennessee,,,In-State,,Public,Clarksville
+220075,East Tennessee State University,East Tennessee St,Tennessee,,,In-State,,Public,Johnson City
+220862,University of Memphis,Memphis,Tennessee,,,In-State,,Public,Memphis
+220978,Middle Tennessee State University,Middle Tennessee St,Tennessee,,,In-State,,Public,Murfreesboro
+221740,University of Tennessee-Chattanooga,UT-Chattanooga,Tennessee,,,In-State,,Public,Chattanooga
+221759,University of Tennessee-Knoxville,UT-Knoxville (2017 Final),Tennessee,Peer,ASP,In-State,SEC,Public,Knoxville
+221768,University of Tennessee-Martin,UT-Martin,Tennessee,,,In-State,,Public,Martin
+221838,Tennessee State University,Tennessee State U.,Tennessee,,,In-State,,Public,Nashville
+221847,Tennessee Technological University,Tennessee Tech,Tennessee,,,In-State,,Public,Cookeville
+221999,Vanderbilt University,Vanderbilt ,Tennessee,,,In-State,SEC,Private,Nashville
+228723,Texas A & M University-College Station,Texas A & M ,Texas,,,,SEC,Public,College Station
+228778,University of Texas at Austin,,Texas,,,,,Public,Austin
+230764,University of Utah,,Utah,,,,,Public,Salt Lake City
+233921,Virginia Polytechnic Institute and State University,Va. Tech,Virginia,Peer,,,,Public,Blacksburg
+234076,University of Virginia-Main Campus,,Virginia,,,,,Public,Charlottesville
+236948,University of Washington-Seattle Campus,,Washington,,,,,Public,Seattle
+240444,University of Wisconsin-Madison,UWM,Wisconsin,,ASP,,,Public,Madison
+243780,Purdue University-Main Campus,Purdue,Indiana,,ASP,,,Public,West Lafayette
